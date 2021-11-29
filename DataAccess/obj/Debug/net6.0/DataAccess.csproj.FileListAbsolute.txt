@@ -1,0 +1,12 @@
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/bin/Debug/net6.0/DataAccess.deps.json
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/bin/Debug/net6.0/DataAccess.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/bin/Debug/net6.0/ref/DataAccess.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/bin/Debug/net6.0/DataAccess.pdb
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/obj/Debug/net6.0/DataAccess.csproj.AssemblyReference.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/obj/Debug/net6.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfoInputs.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfo.cs
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CoreCompileInputs.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/obj/Debug/net6.0/DataAccess.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/obj/Debug/net6.0/ref/DataAccess.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/obj/Debug/net6.0/DataAccess.pdb

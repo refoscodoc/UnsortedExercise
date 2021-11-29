@@ -1,0 +1,15 @@
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/obj/Debug/net6.0/QuestionsWorkout.csproj.AssemblyReference.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/obj/Debug/net6.0/QuestionsWorkout.GeneratedMSBuildEditorConfig.editorconfig
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/obj/Debug/net6.0/QuestionsWorkout.AssemblyInfoInputs.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/obj/Debug/net6.0/QuestionsWorkout.AssemblyInfo.cs
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/obj/Debug/net6.0/QuestionsWorkout.csproj.CoreCompileInputs.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/bin/Debug/net6.0/QuestionsWorkout
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/bin/Debug/net6.0/QuestionsWorkout.deps.json
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/bin/Debug/net6.0/QuestionsWorkout.runtimeconfig.json
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/bin/Debug/net6.0/QuestionsWorkout.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/bin/Debug/net6.0/ref/QuestionsWorkout.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/bin/Debug/net6.0/QuestionsWorkout.pdb
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/obj/Debug/net6.0/QuestionsWorkout.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/obj/Debug/net6.0/ref/QuestionsWorkout.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/obj/Debug/net6.0/QuestionsWorkout.pdb
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/QuestionsWorkout/obj/Debug/net6.0/QuestionsWorkout.genruntimeconfig.cache

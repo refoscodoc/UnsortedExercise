@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KuXS6Nibvypv5CoUGRs/1XIft+PtMFGn7ahNc+oIdHePBJ1NaFl9nQa8f8rG1vWpVQdgavaJrHopUAAoIvHJEQ==",
+  "success": true,
+  "projectFilePath": "/home/alberto/Documents/C Sharp/dotnet6/WebApplication/WebApplication/WebApplication.csproj",
+  "expectedPackageFiles": [
+    "/home/alberto/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.21/microsoft.netcore.app.host.linux-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

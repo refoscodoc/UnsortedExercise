@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DataAccess
+build_property.ProjectDir = /home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccess/

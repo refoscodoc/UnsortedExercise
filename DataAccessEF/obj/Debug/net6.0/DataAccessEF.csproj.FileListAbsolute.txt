@@ -1,0 +1,15 @@
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/obj/Debug/net6.0/DataAccessEF.csproj.AssemblyReference.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/obj/Debug/net6.0/DataAccessEF.GeneratedMSBuildEditorConfig.editorconfig
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/obj/Debug/net6.0/DataAccessEF.AssemblyInfoInputs.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/obj/Debug/net6.0/DataAccessEF.AssemblyInfo.cs
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/obj/Debug/net6.0/DataAccessEF.csproj.CoreCompileInputs.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/bin/Debug/net6.0/DataAccessEF.deps.json
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/bin/Debug/net6.0/DataAccessEF.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/bin/Debug/net6.0/ref/DataAccessEF.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/bin/Debug/net6.0/DataAccessEF.pdb
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/bin/Debug/net6.0/DataAccess.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/bin/Debug/net6.0/DataAccess.pdb
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/obj/Debug/net6.0/DataAccessEF.csproj.CopyComplete
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/obj/Debug/net6.0/DataAccessEF.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/obj/Debug/net6.0/ref/DataAccessEF.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/DataAccessEF/obj/Debug/net6.0/DataAccessEF.pdb

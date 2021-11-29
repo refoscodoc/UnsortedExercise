@@ -1,0 +1,15 @@
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/bin/Debug/net6.0/ABC
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/bin/Debug/net6.0/ABC.deps.json
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/bin/Debug/net6.0/ABC.runtimeconfig.json
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/bin/Debug/net6.0/ABC.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/bin/Debug/net6.0/ref/ABC.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/bin/Debug/net6.0/ABC.pdb
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/obj/Debug/net6.0/ABC.csproj.AssemblyReference.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/obj/Debug/net6.0/ABC.GeneratedMSBuildEditorConfig.editorconfig
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/obj/Debug/net6.0/ABC.AssemblyInfoInputs.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/obj/Debug/net6.0/ABC.AssemblyInfo.cs
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/obj/Debug/net6.0/ABC.csproj.CoreCompileInputs.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/obj/Debug/net6.0/ABC.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/obj/Debug/net6.0/ref/ABC.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/obj/Debug/net6.0/ABC.pdb
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/ABC/obj/Debug/net6.0/ABC.genruntimeconfig.cache

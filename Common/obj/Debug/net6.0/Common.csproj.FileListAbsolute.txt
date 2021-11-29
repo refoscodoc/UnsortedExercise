@@ -1,0 +1,17 @@
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/bin/Debug/net6.0/Common.deps.json
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/bin/Debug/net6.0/Common.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/bin/Debug/net6.0/ref/Common.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/bin/Debug/net6.0/Common.pdb
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/bin/Debug/net6.0/DataAccess.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/bin/Debug/net6.0/DataAccessEF.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/bin/Debug/net6.0/DataAccessEF.pdb
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/bin/Debug/net6.0/DataAccess.pdb
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/obj/Debug/net6.0/Common.csproj.AssemblyReference.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/obj/Debug/net6.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/obj/Debug/net6.0/Common.AssemblyInfoInputs.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/obj/Debug/net6.0/Common.AssemblyInfo.cs
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/obj/Debug/net6.0/Common.csproj.CoreCompileInputs.cache
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/obj/Debug/net6.0/Common.csproj.CopyComplete
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/obj/Debug/net6.0/Common.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/obj/Debug/net6.0/ref/Common.dll
+/home/alberto/Documents/C Sharp/dotnet6/WebApplication/Common/obj/Debug/net6.0/Common.pdb
